@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://blog.ikhode.site
+
+# Sitemaps
+Sitemap: https://blog.ikhode.site/sitemap.xml
