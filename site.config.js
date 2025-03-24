@@ -4,7 +4,7 @@ const CONFIG = {
     name: "Ikhode Studio",
     image: "/avatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Game Developer",
-    bio: "Just do what you love, andtry your best.",
+    bio: "Just do what you love, and try your best.",
     email: "ikhode.station@gmail.com",
     linkedin: "ikhode_studio",
     github: "MyKhode",
@@ -33,9 +33,9 @@ const CONFIG = {
 
   // CONFIG configration (required)
   link: "https://blog.ikhode.site",
-  since: 2022, // If leave this empty, current year will be used.
+  since: 2025, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
-  ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: "https://og-image-korean.vercel.app/**Ikhode**%20Studio%20Blog%20Post.jpeg?theme=light&md=1&fontSize=100px&images=https%3A%2F%2Fmorethan-log.vercel.app%2Favatar.svg&images=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F132768132%3Fv%3D4&images=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F132768132%3Fv%3D4&widths=0&widths=undefined&widths=0&heights=0&heights=undefined&heights=0", // The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
   notionConfig: {

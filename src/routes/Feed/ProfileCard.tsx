@@ -53,6 +53,9 @@ const StyledWrapper = styled.div`
         display: block;
         padding-bottom: 100%;
       }
+      img {
+        border-radius: 0.5rem;
+      }
     }
     .mid {
       display: flex;
