@@ -2,9 +2,9 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Ikhode Studio",
-    image: "/avatar_logo.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/avatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Game Developer",
-    bio: "Just do what you love, and try your best",
+    bio: "Just do what you love, andtry your best.",
     email: "ikhode.station@gmail.com",
     linkedin: "ikhode_studio",
     github: "MyKhode",
@@ -12,8 +12,16 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `Game Development`,
+      href: "https://ikhode.site",
+    },
+    {
+      name: `Web Development`,
+      href: "https://ikhode.site",
+    },
+    {
+      name: `Free Source Code`,
+      href: "https://ikhode.site",
     },
   ],
   // blog setting (required)
